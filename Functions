@@ -1,0 +1,3 @@
+#Convert Days of the Week from String One Liner
+
+function convert-day($day){return [System.DayOfWeek]:: (@(([System.DayOfWeek].DeclaredFields | select -expandproperty name))[@(([System.DayOfWeek].DeclaredFields | select -expandproperty name)).IndexOf($day)])}
