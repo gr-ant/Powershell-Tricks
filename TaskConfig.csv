@@ -1,0 +1,6 @@
+name,desc,freq,Day,Time,
+approvedadmins.ps1,test,2,Thursday,5:00pm,
+gatherscheduledtasks.ps1,test,2,Friday,5:00pm,
+lockedadminaccounts.ps1,test,2,Saturday,5:00pm,
+loginreport.ps1,test,2,Sunday,5:00pm,
+oldaccounts.ps1,test,2,Monday,5:00pm,
